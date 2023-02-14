@@ -11,7 +11,7 @@ int main() {
     // cout은 출력을 담당
     // endl은 줄바꿈을 담당
     // 꺽쇠(<<)는 데이터의 흐름이라 이해할 수 있는데,
-    // 위에서 hello world를 cout을 통해 출력하라는 의미정도로 이해할 수 있음
+    // 위에서 hello world를 cout을 통해 출력하라는 의미정도로 이해
 
     return 0;
 }
