@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-
     // 변수이름은 숫자로 선언할 수 없음
     int a;  // 선언
     a = 7;  // 대입
